@@ -1,6 +1,7 @@
 # Python-Tips-and-Tricks
 Miscellanous tips and tricks that have helped me improve my coding efficiency
 
+- [Hide user input with the getpass function](https://github.com/israel-dryer/Python-Tips-and-Tricks/blob/master/hide-password-input.ipynb)
 - [Shortcut for unpacking a tuple with '\*'](https://github.com/israel-dryer/Python-Tips-and-Tricks/blob/master/unpacking-tuple-short-cut.ipynb)
 - [Create table columns with ljust()](https://github.com/israel-dryer/Python-Tutorials/blob/master/tips-and-tricks/create-columns-with-ljust.ipynb)
 - [Filter Pandas columns with Keywords](https://github.com/israel-dryer/Python-Tutorials/blob/master/tips-and-tricks/filter-dataframe-with-keywords.ipynb)
