@@ -10,3 +10,4 @@ Miscellanous tips and tricks that have helped me improve my coding efficiency
 - [Clean up a header row with Vanilla Python](https://github.com/israel-dryer/Python-Tutorials/blob/master/tips-and-tricks/clean-up-header-row.ipynb)
 - [Set limits with **min** and **max** instead of **if else**](https://github.com/israel-dryer/Python-Tutorials/blob/master/tips-and-tricks/replace-if-else-with-min-max.ipynb)
 - [Remove duplicate records from a data set with vanilla Python](https://github.com/israel-dryer/Python-Tips-and-Tricks/blob/master/remove-duplicate-records-from-dataset.ipynb)
+- [Remove duplicate records from a list of dicts with vanilla Python](remove-duplicates-from-dicts.ipynb)
